@@ -1,2 +1,73 @@
-# E-commerce-Sales-Analysis-PowerBI
-End-to-end Power BI dashboard analyzing e-commerce sales, customer behavior, and product performance
+# E-commerce Sales Analysis Dashboard (Power BI)
+
+## 📌 Project Overview
+This project focuses on analyzing e-commerce sales data to understand revenue drivers, customer behavior, and product performance.  
+An end-to-end Power BI dashboard was built to support data-driven business decisions and improve customer retention.
+
+---
+
+## 🎯 Business Problem
+The e-commerce company wants to:
+- Identify top-performing departments and products
+- Understand customer purchase frequency and reorder behavior
+- Analyze revenue trends
+- Improve repeat purchases and Average Order Value (AOV)
+
+---
+
+## 🧩 Solution Approach
+- Cleaned and transformed raw sales data using Power BI
+- Built key business metrics using DAX
+- Designed interactive dashboards for different business perspectives
+- Derived actionable insights and business recommendations
+
+---
+
+## 📊 Dashboards
+
+### 1️⃣ Business Understanding
+![Business Understanding](screenshots/01_Business_Understanding.png)
+
+### 2️⃣ Sales Analysis
+![Sales Dashboard](screenshots/02_Sales_Dashboard.png)
+
+### 3️⃣ Customer Behavior Analysis
+![Customer Behavior](screenshots/03_Customer_Behavior.png)
+
+### 4️⃣ Product & Category Performance
+![Product & Category](screenshots/04_Product_&_Category.png)
+
+### 5️⃣ Executive Summary
+![Executive Summary](screenshots/05_Executive_Summary.png)
+
+---
+
+## 📈 Key Metrics
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value (AOV)
+- Reorder Rate
+- Customer Purchase Frequency
+
+---
+
+## 💡 Key Insights
+- Revenue is concentrated in a few high-performing departments
+- Majority of customers place fewer than 10 orders
+- Repeat customers contribute significantly to total revenue
+- Predictable reorder cycle of ~11 days observed
+
+---
+
+## 🛠 Tools & Technologies
+- Power BI
+- Microsoft Excel
+- DAX
+- Data Visualization
+- Business Analysis
+
+---
+
+## 🚀 Outcome
+The dashboard provides clear visibility into sales performance and customer behavior, enabling business stakeholders to take data-driven decisions for growth and retention.
