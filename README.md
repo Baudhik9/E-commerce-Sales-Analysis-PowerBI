@@ -71,3 +71,11 @@ The e-commerce company wants to:
 
 ## 🚀 Outcome
 The dashboard provides clear visibility into sales performance and customer behavior, enabling business stakeholders to take data-driven decisions for growth and retention.
+
+---
+
+## 📂 Power BI File Access
+Due to GitHub file size limitations, the Power BI (.pbix) file is shared externally.
+
+🔗 Download the Power BI file:
+https://drive.google.com/file/d/1Fuewib5ytvps7DxqzzS11C8ZQhAQyvij/view?usp=sharing
