@@ -21,24 +21,7 @@ The e-commerce company wants to:
 - Designed interactive dashboards for different business perspectives
 - Derived actionable insights and business recommendations
 
----
 
-## 📊 Dashboards
-
-### 1️⃣ Business Understanding
-![Business Understanding](screenshots/01_Business_Understanding.png)
-
-### 2️⃣ Sales Analysis
-![Sales Dashboard](screenshots/02_Sales_Dashboard.png)
-
-### 3️⃣ Customer Behavior Analysis
-![Customer Behavior](screenshots/03_Customer_Behavior.png)
-
-### 4️⃣ Product & Category Performance
-![Product & Category](screenshots/04_Product_&_Category.png)
-
-### 5️⃣ Executive Summary
-![Executive Summary](screenshots/05_Executive_Summary.png)
 
 ---
 
